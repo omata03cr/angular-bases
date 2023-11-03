@@ -1,4 +1,4 @@
-# Bases
+# Bases del curso de angular sección 4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
